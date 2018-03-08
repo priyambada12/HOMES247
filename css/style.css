@@ -5564,9 +5564,23 @@ Label the data
 
 /* Code Started By raj kamal*/
 
-.search_section>.search_btn,.slick-slide>.hovereffect{
-	cursor: pointer;;
+.search_section>.search_btn{
+	cursor: pointer;
+}
+.slick-slide>.hovereffect{
+cursor: pointer!important;	
+}
+.top_projects_section{
+margin-top: 15px;
+}
+.top_project_info>.pi_right>ul>li>a{
+	cursor: pointer;
 }
 
-
+.new_project_details_box{
+	cursor: pointer;
+}
+.new_ptest>a:hover{
+cursor: pointer;	
+}
 /* Code Ends here*/
