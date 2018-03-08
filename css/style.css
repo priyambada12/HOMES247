@@ -5564,10 +5564,9 @@ Label the data
 
 /* Code Started By raj kamal*/
 
-.search_section>.search_btn{
+.search_section>.search_btn,.slick-slide>.hovereffect{
 	cursor: pointer;;
 }
-
 
 
 /* Code Ends here*/
